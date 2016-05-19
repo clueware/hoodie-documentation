@@ -1,8 +1,8 @@
 ---
 layout: layout-community
-locales: de
+locales: camp
 ---
-#Intro 
+# Intro
 
 Dedicated to the Hoodie community members and contributors who sign up for being responsible for the Hoodie IRC Office Hours. These Office Hours are also documented on [the Hoodie Website](http://hood.ie/irc).
 
@@ -16,7 +16,7 @@ In order to make this as easy for you as possible, we'd ask you to follow this s
 
 Hoodie IRC Office Hours take place daily on weekdays from 2-6pm UTC+2. When in doubt about timezones, check <a href="http://everytimezone.com/" target="_blank">this page</a>.
 
-Please keep in mind that not everyone in the channel is on the same time zone, so it usually helps to add the time zone when talking about times and dates. :) 
+Please keep in mind that not everyone in the channel is on the same time zone, so it usually helps to add the time zone when talking about times and dates. :)
 
 ### 2. Getting started – IRC and Twitter
 
@@ -48,7 +48,7 @@ And, yes, the GIF "rule" applies here as well.
 - Remember our [Code of Conduct](http://hood.ie/code-of-conduct.html) and *strictly* enforce it.
 - Be friendly and patient.
 - If you need more than 1-2 minute to answer a question, please let the other party know that you are still there and on it
-- If you can't answer a question yourself, please 
+- If you can't answer a question yourself, please
   - check our [FAQ](http://faq.hood.ie)
   - ask the person who sent it to file an issue in our ["discussions" repo](https://github.com/hoodiehq/discussion/issues/new) or in the [FAQ](https://github.com/hoodiehq/faq/issues/new)
 - If you have to leave the channel or pause for any reasons, please take care that someone else can take over the responsibility.
